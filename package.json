@@ -13,9 +13,9 @@
   "author": "Abi Mangalan, Bolendra Moran",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AbiMangalan/Project2-OpenToIntern/issues"
+    "url": "https://github.com/AbiMangalan/project2/issues"
   },
-  "homepage": "https://github.com/AbiMangalan/Project2-OpenToIntern#readme",
+  "homepage": "https://github.com/AbiMangalan/project2#readme",
   "dependencies": {
     "express": "^4.18.1",
     "mongoose": "^6.3.2",
